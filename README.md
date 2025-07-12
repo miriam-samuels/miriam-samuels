@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Miriam Medo — Full Stack Web Engineer  
 
-🚀 Product-oriented engineer with **6+ years** of experience building scalable, high-quality software and mentoring developers. Passionate about simplifying complex problems using **React, Angular, Go, Node.js, PostgreSQL, and Docker** to create seamless digital experiences.
+🚀 Product-focused Software Engineer with 6+ years of experience architecting and delivering scalable, high-performance applications across travel, fintech, edutech and web3 domains. Proven track record of optimizing system performance and leading cross-functional teams to deliver mission-critical solutions. Expert in full-stack development with modern technologies including React, Angular, Node.js, and Golang.
 
 ## 🔗 **Let's Connect!**  
 📫 **Email:** [medomiriam@gmail.com](mailto:medomiriam@gmail.com)  
